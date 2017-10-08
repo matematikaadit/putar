@@ -1,0 +1,10 @@
+[package]
+name = "putar"
+version = "0.1.0"
+authors = ["Adit Cahya Ramadhan <matematika.adit@gmail.com>"]
+
+[dependencies]
+tera = "0.10"
+lazy_static = "0.2"
+regex = "0.2"
+chrono = "0.4"
